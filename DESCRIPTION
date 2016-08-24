@@ -1,0 +1,10 @@
+Package: myFirstPackage
+Type: Package
+Title: MyFirstPackage
+Version: 0.1.0
+Author: Miriam and Jean and R
+Maintainer: Miriam <yourfault@somewhere.net>
+Description: Prints out some words (maybe more than one line)
+License: None
+LazyData: TRUE
+RoxygenNote: 5.0.1
