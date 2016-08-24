@@ -20,4 +20,5 @@
 #'@export
 hello <- function() {
   print("Hello, world!")
+  print('Here is a second line!')
 }
